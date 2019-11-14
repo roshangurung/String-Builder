@@ -1,0 +1,14 @@
+C:\Users\Roshan.Gurung\source\repos\String Builder\String Builder\bin\Debug\String Builder.exe.config
+C:\Users\Roshan.Gurung\source\repos\String Builder\String Builder\bin\Debug\String Builder.exe
+C:\Users\Roshan.Gurung\source\repos\String Builder\String Builder\bin\Debug\String Builder.pdb
+C:\Users\Roshan.Gurung\source\repos\String Builder\String Builder\obj\Debug\String Builder.csprojAssemblyReference.cache
+C:\Users\Roshan.Gurung\source\repos\String Builder\String Builder\obj\Debug\String Builder.csproj.CoreCompileInputs.cache
+C:\Users\Roshan.Gurung\source\repos\String Builder\String Builder\obj\Debug\String Builder.exe
+C:\Users\Roshan.Gurung\source\repos\String Builder\String Builder\obj\Debug\String Builder.pdb
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\String Builder\String Builder\bin\Debug\String Builder.exe.config
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\String Builder\String Builder\bin\Debug\String Builder.exe
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\String Builder\String Builder\bin\Debug\String Builder.pdb
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\String Builder\String Builder\obj\Debug\String Builder.csprojAssemblyReference.cache
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\String Builder\String Builder\obj\Debug\String Builder.csproj.CoreCompileInputs.cache
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\String Builder\String Builder\obj\Debug\String Builder.exe
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\String Builder\String Builder\obj\Debug\String Builder.pdb
